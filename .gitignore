@@ -3,3 +3,5 @@ Library/
 Temp/
 Tower Of Duels.csproj
 .vs/
+Tower Of Duels.Editor.Plugins.csproj
+Tower Of Duels.Plugins.csproj
